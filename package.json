@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-linter",
-  "version": "0.0.2",
+  "version": "0.0.2.001",
   "description": "React",
   "main": "index.js",
   "scripts": {
