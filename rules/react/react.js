@@ -1,5 +1,5 @@
 const assign = require('object.assign');
-const baseStyleRules = require('eslint-config-linter/rules/style').rules;
+const baseStyleRules = require('../base/style').rules;
 
 const dangleRules = baseStyleRules['no-underscore-dangle'];
 
